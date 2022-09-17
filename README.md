@@ -1,4 +1,4 @@
-Project developed using only HTML5, CSS3 and JavaScript.
+Project developing using only HTML5, CSS3 and JavaScript.
 
 <i>You can check out other projects I've developed here on my GitHub, or contact me through the other links.</i>
 <br>
